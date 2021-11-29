@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "61a35f69d8b59049a0778b48"
+  },
+  "Manv": "Nv01",
+  "Tennv": "Lê Hồng Quân",
+  "Ngaysinh": "11/28/2021",
+  "Diachi": "Đăk Nông",
+  "Sdt": "(081) 478-9455",
+  "gt": "Nam"
+},{
+  "_id": {
+    "$oid": "61a35f73d8b59049a0778b49"
+  },
+  "Manv": "Nv02",
+  "Tennv": "Trang Thu",
+  "Ngaysinh": "11/28/2021",
+  "Diachi": "Quảng Bình",
+  "Sdt": "(037) 202-4840",
+  "gt": "Nữ"
+},{
+  "_id": {
+    "$oid": "61a36060d8b5902a4cabb395"
+  },
+  "Manv": "Nv03",
+  "Tennv": "Mai Hoa",
+  "Ngaysinh": "11/28/2021",
+  "Diachi": "Tây Ninh",
+  "Sdt": "(036) 581-5001",
+  "gt": "Nữ"
+},{
+  "_id": {
+    "$oid": "61a3607fd8b5902a4cabb396"
+  },
+  "Manv": "Nv04",
+  "Tennv": "Trung Kiên",
+  "Ngaysinh": "11/28/2021",
+  "Diachi": "Đồng Tháp",
+  "Sdt": "(039) 908-7024",
+  "gt": "Nam"
+}]
